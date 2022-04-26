@@ -568,7 +568,7 @@ http://93.157.62.180/TringSport1HD/index.m3u8
 http://93.157.62.180/TringSport2HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Ydf1wj/ASTRO2-BEARTV.png" group-title="NimoTV", TTG
-https://al.flv.nimo.tv/backsrc/su1599518330519r8ad49929364df698b4242646f0bfd01f.flv
+https://b-hls-25.doppiocdn.com/hls/42433128/42433128.m3u8
 
 
 
